@@ -2,7 +2,7 @@
 # Magical Grid
 Magical Grid using core animation
 
-![screenshot](http://i.imgur.com/Oka92EY.jpg)
+![screenshot](http://i.imgur.com/EtvjIky.gifv)
 
 p.s this is a gif, may take a while to load.
 
